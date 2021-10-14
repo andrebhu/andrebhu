@@ -2,6 +2,9 @@
 
 Currently playing around with the README.md
 
+![](https://komarev.com/ghpvc/?username=andrebhu&color=blue)
+
+
 <!--
 **andrebhu/andrebhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
