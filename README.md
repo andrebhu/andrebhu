@@ -1,3 +1,5 @@
 ### Hi there 👋
 
-[![andrebhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrebhu)](https://github.com/anuraghazra/github-readme-stats)
+I'm currently studying computer science and have interests all around.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrebhu)](https://github.com/anuraghazra/github-readme-stats)
